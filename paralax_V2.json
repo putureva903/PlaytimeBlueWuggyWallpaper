@@ -3,13 +3,13 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "admobe",
-      "main_ads_intertitial":"admobe",
-      "main_ads_natives":"admobe",
-      "backup_ads_natives":"applovin",
-      "backup_ads_banner":"applovin",
-      "backup_ads_intertitial":"applovin",
-      "open_ads_admob":"admobe",
+      "main_ads_banner": "ca-app-pub-2631643370199907/8314647948",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/8593069292",
+      "main_ads_natives":"ca-app-pub-2631643370199907/1057478566",
+      "backup_ads_natives":"284083cc51381931",
+      "backup_ads_banner":"a0a007c89a239ce1",
+      "backup_ads_intertitial":"63d8e0431e7fa74a",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -30,709 +30,415 @@
   "Categories": [
     {
       "name_category": "1",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/74/7c/e4747caef127704cfce6a768be63d0b4.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
-      "wallpaper_name": "Image 1",
+      "wallpaper_name": "Huggy Wuggy 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/74/7c/e4747caef127704cfce6a768be63d0b4.jpg"
     },
 	{
       "id": 2,
       "name_category": "1",
-      "wallpaper_name": "Image 2",
+      "wallpaper_name": "Huggy Wuggy 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/92/46/b99246ea36e3f3a63a90f28146b0f3d5.jpg"
     },
 	{
       "id": 3,
       "name_category": "1",
-      "wallpaper_name": "Image 3",
+      "wallpaper_name": "Huggy Wuggy 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/32/cb/74/32cb747e7661e17230b6a1edeb65abe2.jpg"
     },
 	{
       "id": 4,
       "name_category": "1",
-      "wallpaper_name": "Image 4",
+      "wallpaper_name": "Huggy Wuggy 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/80/a1/d980a1093f3284fd97d221dcf1a52959.jpg"
     },
 	{
       "id": 5,
       "name_category": "1",
-      "wallpaper_name": "Image 5",
+      "wallpaper_name": "Huggy Wuggy 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/29/ba/8e/29ba8e551eceb9271c12eec4553e3597.jpg"
     },
 	{
       "id": 6,
       "name_category": "1",
-      "wallpaper_name": "Image 6",
+      "wallpaper_name": "Huggy Wuggy 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/f1/7b/7cf17b39d5cfc1894b2af89eb3b3f514.jpg"
     },
 	{
       "id": 7,
       "name_category": "1",
-      "wallpaper_name": "Image 7",
+      "wallpaper_name": "Huggy Wuggy 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/7c/62/8d7c624fbfff0ec9b9f25d88d4c52eee.jpg"
     },
 	{
       "id": 8,
       "name_category": "1",
-      "wallpaper_name": "Image 8",
+      "wallpaper_name": "Huggy Wuggy 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/23/f6/cd/23f6cdf25744fda89a3491063d544b21.jpg"
     },
 	{
       "id": 9,
       "name_category": "1",
-      "wallpaper_name": "Image 9",
+      "wallpaper_name": "Huggy Wuggy 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/95/42/ec9542199ac3035fdf1acda58efc192e.jpg"
     },
 	{
       "id": 10,
       "name_category": "1",
-      "wallpaper_name": "Image 10",
+      "wallpaper_name": "Huggy Wuggy 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/5e/e5/b25ee56841711b200a0d123f2d1a9968.jpg"
     },
 	{
       "id": 11,
       "name_category": "1",
-      "wallpaper_name": "Image 11",
+      "wallpaper_name": "Huggy Wuggy 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/4e/46/3a/4e463a2904961c7f0d2e280674af2564.jpg"
     },
 	{
       "id": 12,
       "name_category": "1",
-      "wallpaper_name": "Image 12",
+      "wallpaper_name": "Huggy Wuggy 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/4d/90/cb4d90d0be68f24dcca548c037b7d1aa.jpg"
     },
 	{
       "id": 13,
       "name_category": "1",
-      "wallpaper_name": "Image 13",
+      "wallpaper_name": "Huggy Wuggy 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/5c/95/e45c95b83c2d497e453527d22d16bf9b.jpg"
     },
 	{
       "id": 14,
       "name_category": "1",
-      "wallpaper_name": "Image 14",
+      "wallpaper_name": "Huggy Wuggy 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/ff/24/4cff249d91880d81f60c171a919a6317.jpg"
     },
 	{
       "id": 15,
       "name_category": "1",
-      "wallpaper_name": "Image 15",
+      "wallpaper_name": "Huggy Wuggy 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/99/7d/a5997d49fbb9af6bc14ea7ca8c803e51.jpg"
     },
 	{
       "id": 16,
       "name_category": "1",
-      "wallpaper_name": "Image 16",
+      "wallpaper_name": "Huggy Wuggy 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/ff/5e/aeff5e2432b7160386faa16106796775.jpg"
     },
 	{
       "id": 17,
       "name_category": "1",
-      "wallpaper_name": "Image 17",
+      "wallpaper_name": "Huggy Wuggy 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/09/8d/64/098d64bd13d9c292be5756728de180ab.jpg"
     },
 	{
       "id": 18,
       "name_category": "1",
-      "wallpaper_name": "Image 18",
+      "wallpaper_name": "Huggy Wuggy 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/fd/ee/1efdee54562e88482aaf41acbea9e5b4.jpg"
     },
 	{
       "id": 19,
       "name_category": "1",
-      "wallpaper_name": "Image 19",
+      "wallpaper_name": "Huggy Wuggy 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/27/86/a4/2786a479b21209963e24f12f7560ddac.jpg"
     },
 	{
       "id": 20,
       "name_category": "1",
-      "wallpaper_name": "Image 20",
+      "wallpaper_name": "Huggy Wuggy 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/de/d3/c3ded313bd0ab6a87956183600a86622.jpg"
     },
 	{
       "id": 21,
       "name_category": "1",
-      "wallpaper_name": "Image 21",
+      "wallpaper_name": "Huggy Wuggy 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/01/e2/43/01e243f546b10159c66f194f74f96c1f.jpg"
     },
 	{
       "id": 22,
       "name_category": "1",
-      "wallpaper_name": "Image 22",
+      "wallpaper_name": "Huggy Wuggy 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/21/d2/fc21d2151773cb080eadcc7577147eee.jpg"
     },
 	{
       "id": 23,
       "name_category": "1",
-      "wallpaper_name": "Image 23",
+      "wallpaper_name": "Huggy Wuggy 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/16/85/06/1685060513366ff0177a87dedad022b2.jpg"
     },
 	{
       "id": 24,
       "name_category": "1",
-      "wallpaper_name": "Image 24",
+      "wallpaper_name": "Huggy Wuggy 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/8e/68/ac8e6829cab8cd0f9d7e32f17c8a11f6.jpg"
     },
 	{
       "id": 25,
       "name_category": "1",
-      "wallpaper_name": "Image 25",
+      "wallpaper_name": "Huggy Wuggy 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/3b/41/dc3b41fae1813c32c09ce759056d6a43.jpg"
     },
 	{
       "id": 26,
       "name_category": "1",
-      "wallpaper_name": "Image 26",
+      "wallpaper_name": "Huggy Wuggy 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/df/14/d5/df14d56c95bee6e88e8aee6c92d3a8bf.jpg"
     },
 	{
       "id": 27,
       "name_category": "1",
-      "wallpaper_name": "Image 27",
+      "wallpaper_name": "Huggy Wuggy 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/8b/af/4c8baf31dca50fd6043dfcb1212586f3.jpg"
     },
 	{
       "id": 28,
       "name_category": "1",
-      "wallpaper_name": "Image 28",
+      "wallpaper_name": "Huggy Wuggy 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/85/de/67/85de67fbea0fd6c5c5bd05751d80f7bc.jpg"
     },
 	{
       "id": 29,
       "name_category": "1",
-      "wallpaper_name": "Image 29",
+      "wallpaper_name": "Huggy Wuggy 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/65/44/34/654434f390ebd4065569c8e4d1f9218c.jpg"
     },
 	{
       "id": 30,
       "name_category": "1",
-      "wallpaper_name": "Image 30",
+      "wallpaper_name": "Huggy Wuggy 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/77/9a/52/779a52f4b8daea44183af3b0d4852d43.jpg"
     },
 	{
       "id": 31,
       "name_category": "1",
-      "wallpaper_name": "Image 31",
+      "wallpaper_name": "Huggy Wuggy 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/31/0a/a9310a9c3cd2981119fcd164c4f7e1c4.jpg"
     },
 	{
       "id": 32,
       "name_category": "1",
-      "wallpaper_name": "Image 32",
+      "wallpaper_name": "Huggy Wuggy 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/1c/2d/d9/1c2dd97eba5dd4fd575f12a2954c6627.jpg"
     },
 	{
       "id": 33,
       "name_category": "1",
-      "wallpaper_name": "Image 33",
+      "wallpaper_name": "Huggy Wuggy 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/9a/cf/29/9acf29c2beee00a508e218f48011a167.jpg"
     },
 	{
       "id": 34,
       "name_category": "1",
-      "wallpaper_name": "Image 34",
+      "wallpaper_name": "Huggy Wuggy 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/66/df/aa/66dfaa49607e042c690928cacfe2bec0.jpg"
     },
 	{
       "id": 35,
       "name_category": "1",
-      "wallpaper_name": "Image 35",
+      "wallpaper_name": "Huggy Wuggy 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/19/d0/b119d0c81bbaa6909fb6d48d3eb7976e.jpg"
     },
 	{
       "id": 36,
       "name_category": "1",
-      "wallpaper_name": "Image 36",
+      "wallpaper_name": "Huggy Wuggy 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/ad/a5/c3ada5580cb266d77aa06df11de276f3.jpg"
     },
 	{
       "id": 37,
       "name_category": "1",
-      "wallpaper_name": "Image 37",
+      "wallpaper_name": "Huggy Wuggy 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/19/35/e919350e0a77fc25c5fe133b34b2da7f.jpg"
     },
 	{
       "id": 38,
       "name_category": "1",
-      "wallpaper_name": "Image 38",
+      "wallpaper_name": "Huggy Wuggy 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/52/68/ae/5268ae719cb6d7dd418776d275775d89.jpg"
     },
 	{
       "id": 39,
       "name_category": "1",
-      "wallpaper_name": "Image 39",
+      "wallpaper_name": "Huggy Wuggy 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/94/41/0c/94410c0cc7a88377a2eff26c3062da06.jpg"
     },
 	{
       "id": 40,
       "name_category": "1",
-      "wallpaper_name": "Image 40",
+      "wallpaper_name": "Huggy Wuggy 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/11/a7/07/11a7076b018aa0bfc80c76044ad1db9f.jpg"
     },
 	{
       "id": 41,
       "name_category": "1",
-      "wallpaper_name": "Image 41",
+      "wallpaper_name": "Huggy Wuggy 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/bd/88/0abd88eef6466749a47b4823702579d3.jpg"
     },
 	{
       "id": 42,
       "name_category": "1",
-      "wallpaper_name": "Image 42",
+      "wallpaper_name": "Huggy Wuggy 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/85/32/a58532be68b6d3b674be52a4d5a9d7f9.jpg"
     },
 	{
       "id": 43,
       "name_category": "1",
-      "wallpaper_name": "Image 43",
+      "wallpaper_name": "Huggy Wuggy 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/92/b2/88/92b288a322fbea72e77c1fee28613886.jpg"
     },
 	{
       "id": 44,
       "name_category": "1",
-      "wallpaper_name": "Image 44",
+      "wallpaper_name": "Huggy Wuggy 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/db/aa/ac/dbaaac5f5fca5b39a26bc8c888a76d98.jpg"
     },
 	{
       "id": 45,
       "name_category": "1",
-      "wallpaper_name": "Image 45",
+      "wallpaper_name": "Huggy Wuggy 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/24/c2/5e/24c25e941493a3f26135a5d51924f9e1.jpg"
     },
 	{
       "id": 46,
       "name_category": "1",
-      "wallpaper_name": "Image 46",
+      "wallpaper_name": "Huggy Wuggy 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/1b/2f/f01b2fb7abff871607c943699cb02b47.jpg"
     },
 	{
       "id": 47,
       "name_category": "1",
-      "wallpaper_name": "Image 47",
+      "wallpaper_name": "Huggy Wuggy 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/0f/ab/cc0fab6aa7e5f2be47bf25fed830cd57.jpg"
     },
 	{
       "id": 48,
       "name_category": "1",
-      "wallpaper_name": "Image 48",
+      "wallpaper_name": "Huggy Wuggy 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/1a/be/a61abe3998ab65a92dae07516f59900e.jpg"
     },
 	{
       "id": 49,
       "name_category": "1",
-      "wallpaper_name": "Image 49",
+      "wallpaper_name": "Huggy Wuggy 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/77/fd/0a77fd418d06dbecbff9559f9bd1a096.jpg"
     },
 	{
       "id": 50,
       "name_category": "1",
-      "wallpaper_name": "Image 50",
+      "wallpaper_name": "Huggy Wuggy 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/c4/65/e3c4655ce5f7d6993033e230d3da8448.jpg"
     },
 	{
       "id": 51,
       "name_category": "1",
-      "wallpaper_name": "Image 51",
+      "wallpaper_name": "Huggy Wuggy 51",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/8f/57/f78f572a0cf7b761937e3ab05a152344.jpg"
     },
 	{
       "id": 52,
       "name_category": "1",
-      "wallpaper_name": "Image 52",
+      "wallpaper_name": "Huggy Wuggy 52",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/16/78/8b/16788b92465891ac484a69ef6e5f8167.jpg"
     },
 	{
       "id": 53,
       "name_category": "1",
-      "wallpaper_name": "Image 53",
+      "wallpaper_name": "Huggy Wuggy 53",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/69/96/f86996c293c4c3dac24e03099a4f1a01.jpg"
     },
 	{
       "id": 54,
       "name_category": "1",
-      "wallpaper_name": "Image 54",
+      "wallpaper_name": "Huggy Wuggy 54",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/43/63/ce/4363ce1bd079e54c1a40ee8eaa60041c.jpg"
     },
 	{
       "id": 55,
       "name_category": "1",
-      "wallpaper_name": "Image 55",
+      "wallpaper_name": "Huggy Wuggy 55",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/05/f9/a2/05f9a2ee962e39c040a45b286d23879d.jpg"
     },
 	{
       "id": 56,
       "name_category": "1",
-      "wallpaper_name": "Image 56",
+      "wallpaper_name": "Huggy Wuggy 56",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/4d/62/a74d628ad29840bd5917e5da06409ae6.jpg"
     },
 	{
       "id": 57,
       "name_category": "1",
-      "wallpaper_name": "Image 57",
+      "wallpaper_name": "Huggy Wuggy 57",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/c6/0a/52/c60a52da714e7f359f2fdf27e64d1ace.jpg"
     },
 	{
       "id": 58,
       "name_category": "1",
-      "wallpaper_name": "Image 58",
+      "wallpaper_name": "Huggy Wuggy 58",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 59,
-      "name_category": "1",
-      "wallpaper_name": "Image 59",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 60,
-      "name_category": "1",
-      "wallpaper_name": "Image 60",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 61,
-      "name_category": "1",
-      "wallpaper_name": "Image 61",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 62,
-      "name_category": "1",
-      "wallpaper_name": "Image 62",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 63,
-      "name_category": "1",
-      "wallpaper_name": "Image 63",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 64,
-      "name_category": "1",
-      "wallpaper_name": "Image 64",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 65,
-      "name_category": "1",
-      "wallpaper_name": "Image 65",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 66,
-      "name_category": "1",
-      "wallpaper_name": "Image 66",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 67,
-      "name_category": "1",
-      "wallpaper_name": "Image 67",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 68,
-      "name_category": "1",
-      "wallpaper_name": "Image 68",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 69,
-      "name_category": "1",
-      "wallpaper_name": "Image 69",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 70,
-      "name_category": "1",
-      "wallpaper_name": "Image 70",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 71,
-      "name_category": "1",
-      "wallpaper_name": "Image 71",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 72,
-      "name_category": "1",
-      "wallpaper_name": "Image 72",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 73,
-      "name_category": "1",
-      "wallpaper_name": "Image 73",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 74,
-      "name_category": "1",
-      "wallpaper_name": "Image 74",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 75,
-      "name_category": "1",
-      "wallpaper_name": "Image 75",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 76,
-      "name_category": "1",
-      "wallpaper_name": "Image 76",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 77,
-      "name_category": "1",
-      "wallpaper_name": "Image 77",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 78,
-      "name_category": "1",
-      "wallpaper_name": "Image 78",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 79,
-      "name_category": "1",
-      "wallpaper_name": "Image 79",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 80,
-      "name_category": "1",
-      "wallpaper_name": "Image 80",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 81,
-      "name_category": "1",
-      "wallpaper_name": "Image 81",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 82,
-      "name_category": "1",
-      "wallpaper_name": "Image 82",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 83,
-      "name_category": "1",
-      "wallpaper_name": "Image 83",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 84,
-      "name_category": "1",
-      "wallpaper_name": "Image 84",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 85,
-      "name_category": "1",
-      "wallpaper_name": "Image 85",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 86,
-      "name_category": "1",
-      "wallpaper_name": "Image 86",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 87,
-      "name_category": "1",
-      "wallpaper_name": "Image 87",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 88,
-      "name_category": "1",
-      "wallpaper_name": "Image 88",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 89,
-      "name_category": "1",
-      "wallpaper_name": "Image 89",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 90,
-      "name_category": "1",
-      "wallpaper_name": "Image 90",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 91,
-      "name_category": "1",
-      "wallpaper_name": "Image 91",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 92,
-      "name_category": "1",
-      "wallpaper_name": "Image 92",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 93,
-      "name_category": "1",
-      "wallpaper_name": "Image 93",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 94,
-      "name_category": "1",
-      "wallpaper_name": "Image 94",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 95,
-      "name_category": "1",
-      "wallpaper_name": "Image 95",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 96,
-      "name_category": "1",
-      "wallpaper_name": "Image 96",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 97,
-      "name_category": "1",
-      "wallpaper_name": "Image 97",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 98,
-      "name_category": "1",
-      "wallpaper_name": "Image 98",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 99,
-      "name_category": "1",
-      "wallpaper_name": "Image 99",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
-    },
-	{
-      "id": 100,
-      "name_category": "1",
-      "wallpaper_name": "Image 100",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/da/92/32/da92328e5135aa297dc75f2699476103.jpg"
     }
     
   ]
